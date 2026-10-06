@@ -1,0 +1,8 @@
+C:\Users\steva\OneDrive\Documentos\PROGRA\TaskDB_Solution\TaskDB\bin\Debug\TaskDB.exe.config
+C:\Users\steva\OneDrive\Documentos\PROGRA\TaskDB_Solution\TaskDB\bin\Debug\TaskDB.exe
+C:\Users\steva\OneDrive\Documentos\PROGRA\TaskDB_Solution\TaskDB\bin\Debug\TaskDB.pdb
+C:\Users\steva\OneDrive\Documentos\PROGRA\TaskDB_Solution\TaskDB\obj\Debug\TaskDB.csproj.AssemblyReference.cache
+C:\Users\steva\OneDrive\Documentos\PROGRA\TaskDB_Solution\TaskDB\obj\Debug\TaskDB.csproj.CoreCompileInputs.cache
+C:\Users\steva\OneDrive\Documentos\PROGRA\TaskDB_Solution\TaskDB\obj\Debug\TaskDB.exe
+C:\Users\steva\OneDrive\Documentos\PROGRA\TaskDB_Solution\TaskDB\obj\Debug\TaskDB.pdb
+C:\Users\steva\OneDrive\Documentos\PROGRA\TaskDB_Solution\TaskDB\obj\Debug\TaskDB.exe.config
